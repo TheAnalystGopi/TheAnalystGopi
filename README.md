@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Pyspark, Machine learning, Ai Tools**
 
-- 👨‍💻 All of my projects are available at [https://github.com/TheAnalystGopi](https://github.com/TheAnalystGopi)
+- 👨‍💻 All of my projects are available at [https://github.com/TheAnalystGopi]([https://github.com/TheAnalystGopi](https://www.datascienceportfol.io/gopiwaghmare75))
 
 - 📝 I regularly submit my new projects on [https://github.com/TheAnalystGopi](https://github.com/TheAnalystGopi)
 
